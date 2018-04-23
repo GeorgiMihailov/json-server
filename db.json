@@ -3,43 +3,43 @@
   [
     { 
       "notice_ID":566,
-"datetime": 1524498420000
+"datetime": 1524498420000,
 "Phone_ID":"+38977916316",
 "notice_text": "Zdravo Stefan"
  },
      {
        "notice_ID":567,
-"datetime": 1524498420000
+"datetime": 1524498420000,
 "Phone_ID":"+38977916316",
 "notice_text": "Zdravo Stefan 1"
  },
      { 
        "notice_ID":568,
-"datetime": 1524498420000
+"datetime": 1524498420000,
 "Phone_ID":"+38977916316",
 "notice_text": "Zdravo Stefan 2"
  }, 
     { 
       "notice_ID":569,
-"datetime": 1524498420000
+"datetime": 1524498420000,
 "Phone_ID":"+38977916316",
 "notice_text": "Zdravo Stefan 3"
  },
     { 
       "notice_ID":570,
-"datetime": 1524498420000
+"datetime": 1524498420000,
 "Phone_ID":"+38977916316",
 "notice_text": "Zdravo Stefan 4"
  },
     {   
       "notice_ID":569,
-"datetime": 1524498420000
+"datetime": 1524498420000,
 "Phone_ID":"+38977916316",
 "notice_text": "Zdravo Stefan 5"
  },
     {
       "notice_ID":569,
-"datetime": 1524498420000
+"datetime": 1524498420000,
 "Phone_ID":"+38977916316",
 "notice_text": "Zdravo Stefan 6"
  }
