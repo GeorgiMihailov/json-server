@@ -43,5 +43,31 @@
 "Phone_ID":"+38977916316",
 "notice_text": "Zdravo Stefan 6"
  }
+  ],
+  
+  "sync_time" : 
+  {
+"daily_sync_time":1524498420000,
+"sync_frequency": 1524498420000
+},
+"last_notice_ID" :
+{ 
+"notice_ID": 10
+},
+"number_of_new_messages":
+  { 
+    "messages" : 3
+  },
+"ID_of_new_messages" : 
+[
+  {
+    "message_id" : 12
+  },
+  {
+    "message_id" : 13
+  },
+  {
+    "message_id" : 14
+  }
   ]
 }
