@@ -1,74 +1,47 @@
 {
-  "messages": 
+  "menu": 
   [
     { 
-      "notice_ID":566,
-"datetime": 1524498420000,
-"Phone_ID":"+38977916316",
-"notice_text": "Zdravo Stefan"
+      "parent":0,
+      "id":1,
+      "label": "Credit",
+      "url":"" 
  },
      {
-       "notice_ID":567,
-"datetime": 1524498420000,
-"Phone_ID":"+38977916316",
-"notice_text": "Zdravo Stefan 1"
+        "parent":0,
+      "id":2,
+       "label": "Card",
+       "level":1
  },
      { 
-       "notice_ID":568,
-"datetime": 1524498420000,
-"Phone_ID":"+38977916316",
-"notice_text": "Zdravo Stefan 2"
+       "parent":0,
+      "id":3,
+        "label": "Investment",
+        "level":1
  }, 
     { 
-      "notice_ID":569,
-"datetime": 1524498420000,
-"Phone_ID":"+38977916316",
-"notice_text": "Zdravo Stefan 3"
+      "parent":0,
+      "id":4,
+      "label": "Expenses",
+      "level":1
  },
     { 
-      "notice_ID":570,
-"datetime": 1524498420000,
-"Phone_ID":"+38977916316",
-"notice_text": "Zdravo Stefan 4"
+      "parent":0,
+      "id":5,
+     "label": "Revenue",
+      "level":1
  },
     {   
-      "notice_ID":569,
-"datetime": 1524498420000,
-"Phone_ID":"+38977916316",
-"notice_text": "Zdravo Stefan 5"
+       "parent":0,
+      "id":6,
+       "label": "Market",
+      "level":1
  },
     {
-      "notice_ID":569,
-"datetime": 1524498420000,
-"Phone_ID":"+38977916316",
-"notice_text": "Zdravo Stefan 6"
+     "parent":0,
+      "id":7,
+      "label": "Currency",
+      "level":1
  }
-  ],
-"sync_time" : 
-  {
-"daily_sync_time":1524498420000,
-"sync_frequency": 1524498420000
-},
-"last_notice_ID" :
-{ 
-"notice_ID": 10
-},
-"number_of_new_messages":
-  { 
-    "new_messages" : 3
-  },
-"ID_of_new_messages" : 
-[
-  {
-    "message_id" : 12
-  },
-  {
-    "message_id" : 13
-  },
-  {
-    "message_id" : 14
-  }
   ]
-
-
 }
