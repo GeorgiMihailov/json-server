@@ -11,37 +11,37 @@
         "parent":0,
       "id":2,
        "label": "Card",
-       "level":1
+      "url":"" 
  },
      { 
        "parent":0,
       "id":3,
         "label": "Investment",
-        "level":1
+       "url":"" 
  }, 
     { 
       "parent":0,
       "id":4,
       "label": "Expenses",
-      "level":1
+      "url":"" 
  },
     { 
       "parent":0,
       "id":5,
      "label": "Revenue",
-      "level":1
+      "url":"" 
  },
     {   
        "parent":0,
       "id":6,
        "label": "Market",
-      "level":1
+     "url":"" 
  },
     {
      "parent":0,
       "id":7,
       "label": "Currency",
-      "level":1
+     "url":"" 
  }
   ]
 }
